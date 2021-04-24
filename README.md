@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Babak
-- 👀 I’m interested in Artificial Intelligence,
-                            Rocket Engines, Quantum Physics, Maths, Automotive Industry
+- 👀 I’m interested in Artificial Intelligence,<br>
+                            <center>Rocket Engines, Quantum Physics, Maths, Automotive Industry</center>
 - 🌱 I’m currently learning Machine Learning algoritthms,<br>
-                            Calculus, Probability and Statistics.
+                            <center>Calculus, Probability and Statistics.</center>
 
 <!---
 babzan/babzan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

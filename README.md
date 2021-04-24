@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Babak
 - 👀 I’m interested in Artificial Intelligence,
                             Rocket Engines, Quantum Physics, Maths, Automotive Industry
-- 🌱 I’m currently learning Machine Learning algoritthms,
+- 🌱 I’m currently learning Machine Learning algoritthms,<br>
                             Calculus, Probability and Statistics.
 
 <!---
